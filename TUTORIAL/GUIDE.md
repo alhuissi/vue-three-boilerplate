@@ -28,7 +28,7 @@ Download 3D models
 Original: Landscape gallery by @stoneysteiner:
 https://sketchfab.com/3d-models/landscape-gallery-by-stoneysteiner-3702735762544e5796be4740cb6d5efc
 
-![alt text](https://github.com/alhuissi/3D-Virtual-Gallery/blob/main/sketchfab-screenshot.png)
+![alt text]([https://github.com/alhuissi/3D-Virtual-Gallery/blob/main/sketchfab-screenshot.png](https://raw.githubusercontent.com/alhuissi/vue-three-boilerplate/master/TUTORIAL/sketchfab-screenshot.png))
 
 Extract on /public
 
