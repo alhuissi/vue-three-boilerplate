@@ -28,7 +28,7 @@ Download 3D models
 Original: Landscape gallery by @stoneysteiner:
 https://sketchfab.com/3d-models/landscape-gallery-by-stoneysteiner-3702735762544e5796be4740cb6d5efc
 
-![alt text](https://github.com/alhuissi/3D-Virtual-Gallery/blob/main/sketchfab-screenshot.png)
+![alt text](https://raw.githubusercontent.com/alhuissi/vue-three-boilerplate/master/TUTORIAL/sketchfab-screenshot.png)
 
 Extract on /public
 
@@ -36,7 +36,7 @@ Compress /textures:
 https://tinypng.com/
 
 Project ready:
-![alt text](https://github.com/alhuissi/3D-Virtual-Gallery/blob/main/project-ready-to-start.png)
+![alt text](https://raw.githubusercontent.com/alhuissi/vue-three-boilerplate/master/TUTORIAL/project-ready-to-start.png)
 
 ## 2. Create scene
 
@@ -45,13 +45,13 @@ Project ready:
 npm serve
 ```
 Vue fresh new project:
-![alt text](https://github.com/alhuissi/3D-Virtual-Gallery/blob/main/vue-new-project.png)
+![alt text](https://raw.githubusercontent.com/alhuissi/vue-three-boilerplate/master/TUTORIAL/vue-new-project.png)
 
 Delete default component and logo
 
 Create new component VirtualGallery and add it to App.vue
 
-![alt text](https://github.com/alhuissi/3D-Virtual-Gallery/blob/main/vue-new-project-2.png)
+![alt text](https://raw.githubusercontent.com/alhuissi/vue-three-boilerplate/master/TUTORIAL/vue-new-project-2.png)
 
 Add canvas on html template:
 ```
@@ -175,7 +175,7 @@ Style:
 </style>
 ```
 
-![alt text](https://github.com/alhuissi/3D-Virtual-Gallery/blob/main/vue-virtual-gallery-1.png)
+![alt text](https://raw.githubusercontent.com/alhuissi/vue-three-boilerplate/master/TUTORIAL/vue-virtual-gallery-1.png)
 
 Add custom images
 
